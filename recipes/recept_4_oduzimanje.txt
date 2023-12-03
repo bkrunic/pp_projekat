@@ -1,0 +1,19 @@
+/*
+radi jednostavnosti programa nemoguce je napisati recept od 2 sastojka, pa cemo koristiti a i b kao sastojke
+ovaj program oduzima dva broja 20-10 = 10
+*/
+
+Oduzimanje
+
+sastojci:
+
+20 g a
+10 g b
+
+uputstvo:
+
+dodaj a u ciniju
+ukloni b iz cinije
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

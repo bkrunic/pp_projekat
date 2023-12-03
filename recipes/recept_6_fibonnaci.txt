@@ -1,0 +1,27 @@
+Fibonacci
+// 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987
+
+sastojci:
+
+0 g a
+1 g b
+16 g i
+16 g j
+
+uputstvo:
+
+seckati i
+stavi b u prvu ciniju
+stavi b u prvu ciniju
+dodaj a u prvu ciniju
+pokupi b iz prve cinije
+pokupi a iz prve cinije
+stavi a u prvu ciniju
+seckati i dok nije naseckan
+mesati j
+pokupi a iz prve cinije
+stavi a u drugu ciniju
+mesati j dok nije promesan
+presipaj sadrzaj iz druge cinije u pleh za pecenje
+
+posluziti

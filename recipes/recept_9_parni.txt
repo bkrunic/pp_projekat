@@ -1,0 +1,23 @@
+/*
+ovaj program ispisuje prvih 10 parnih brojeva
+*/
+
+Parni
+
+sastojci:
+
+2 g a
+10 g n
+0 g h
+
+uputstvo:
+
+seckati n
+stavi h u prvu ciniju
+dodaj a u prvu ciniju
+pokupi h iz prve cinije
+stavi h u drugu ciniju
+seckati dok n dok nisu iseckana
+presipaj sadrzaj druge cinije u pleh za pecenje
+
+posluziti

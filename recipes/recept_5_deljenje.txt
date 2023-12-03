@@ -1,0 +1,19 @@
+/*
+radi jednostavnosti programa nemoguce je napisati recept od 2 sastojka, pa cemo koristiti a i b kao sastojke
+ovaj deli  dva broja 20/10 = 10
+*/
+
+Deljenje
+
+sastojci:
+
+20 g a
+10 g b
+
+uputstvo:
+
+dodaj b u ciniju
+podeli a u ciniji
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

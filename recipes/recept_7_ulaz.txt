@@ -1,0 +1,14 @@
+/*
+obradjuje korisnicki ulaz i ispisuje integer sa ulaza
+*/
+Pecena-jaja
+
+sastojci:
+
+uputstvo:
+
+uzmi jaja iz frizidera
+stavi jaja u ciniju
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

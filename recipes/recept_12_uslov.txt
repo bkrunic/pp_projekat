@@ -1,0 +1,24 @@
+/*
+pokazuje funkcionalnost uslova
+*/
+
+Palacinke
+
+sastojci:
+
+110 ml negazirana-voda
+106 ml jaja
+97 g aromatizovano-brasno
+109 ml mleko
+
+uputstvo:
+
+stavi negazirana-voda u ciniju
+stavi jaja u ciniju
+stavi aromatizovano-brasno u ciniju
+stavi mleko u ciniju
+razredi sastojke cinije
+ako ima vise mleka od vode dodaj vodu u ciniju
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

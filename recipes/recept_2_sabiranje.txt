@@ -1,0 +1,19 @@
+/*
+radi jednostavnosti programa nemoguce je napisati recept od 2 sastojka, pa cemo koristiti a i b kao sastojke
+ovaj program sabira dva broja 10+20 = 30
+*/
+
+Sabiranje
+
+sastojci:
+
+10 g a
+20 g b
+
+uputstvo:
+
+stavi a u ciniju
+dodaj b u ciniju
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

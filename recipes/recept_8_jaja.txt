@@ -1,0 +1,19 @@
+/*
+ovaj program ispisuje broj 10 200 puta
+*/
+
+Jaja
+
+sastojci:
+
+200 g jaja
+10 g soli
+
+uputstvo:
+
+skuvati jaja
+stavi so u ciniju
+kuvati dok nisu skuvana
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

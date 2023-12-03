@@ -1,0 +1,20 @@
+/*
+radi jednostavnosti programa nemoguce je napisati recept od 2 sastojka, pa cemo koristiti a i b kao sastojke
+ovaj program mnozi dva broja 10*20 = 200
+*/
+
+Mnozenje
+
+sastojci:
+
+10 g a
+20 g b
+
+uputstvo:
+
+seckati a // pocetak petlje koja se izvrsava a puta
+dodaj b u ciniju
+seckati a dok nije iseckan // kraj petlje
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti

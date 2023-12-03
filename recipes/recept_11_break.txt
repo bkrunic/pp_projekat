@@ -1,0 +1,20 @@
+/*
+prikazuje petlju i break funkcionalnost
+*/
+
+Break
+
+sastojci:
+
+10 g a
+20 g b
+
+uputstvo:
+
+seckati a // pocetak petlje koja se izvrsava a puta
+dodaj b u ciniju
+ostavi da odstoji
+seckati a dok nije iseckan // kraj petlje
+presipaj sadrzaj cinije u pleh za pecenje
+
+posluziti
